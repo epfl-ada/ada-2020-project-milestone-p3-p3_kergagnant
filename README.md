@@ -1,5 +1,4 @@
-# Title 
-How friends’ reviews on Yelp affect mobility 
+# How friends’ reviews on Yelp affect mobility 
 
 ## Abstract
 In this creative extension, we aim at studying the effects of yelp reviews, and more specifically reviews from friends on mobility. We will be using a very extensive dataset provided by Yelp giving us information on businesses, users, reviews and user check-ins into certain businesses.<br>
@@ -60,5 +59,5 @@ For the last week, we will work collectively on:
 ## Reference: 
 - Paper: Friendship and Mobility: User Movement in
 Location-Based Social Networks [Source](http://ial.eecs.ucf.edu/Reading/Papers/Friendship%20and%20Mobility%20User%20Movement%20In%20Location-Based%20Social%20Networks.pdf).
-- Yelp Dataset [source](https://www.yelp.com/dataset/download).
+- Yelp Dataset [Source](https://www.yelp.com/dataset/download).
 
