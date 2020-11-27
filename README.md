@@ -57,7 +57,7 @@ For the last week, we will work collectively on:
 - Writing of the report 
 
 ## References: 
-- Paper: Friendship and Mobility: *User Movement in
+- Paper: *Friendship and Mobility: User Movement in
 Location-Based Social Networks* [Source](http://ial.eecs.ucf.edu/Reading/Papers/Friendship%20and%20Mobility%20User%20Movement%20In%20Location-Based%20Social%20Networks.pdf).
 - Yelp Dataset [Source](https://www.yelp.com/dataset/download).
 
