@@ -2,10 +2,10 @@
 How friends’ reviews on Yelp affect mobility 
 
 ## Abstract
-In this creative extension, we aim at studying the effects of yelp reviews, and more specifically reviews from friends on mobility. We will be using a very extensive dataset provided by Yelp giving us information on businesses, users, reviews and user check-ins into certain businesses. 
-Given that the dataset is huge, we will cut it down by focusing on businesses in California, which has a very high concentration of various businesses and many active users, as well as being a big state surface-wise with a relatively high population density. 
-We will try to clean the data and perform various statistical analysis and plottings  in order to draw conclusions on the effect of friend’s yelp reviews on one's mobility. The intuition is that if a user’s friend has given a positive or negative review for a certain business, chances are that that friend has talked to that user about it, enabling the user to check-out or not the business, regardless if they have seen the friend’s review or not. 
-This is another facet of the effects on friendships on short and long distance travelling, studied in the reference paper. We expect to find some similar results, that long distance mobility in particular is strongly linked to friends' presence and opinions on certain businesses.
+In this creative extension, we aim at studying the effects of yelp reviews, and more specifically reviews from friends on mobility. We will be using a very extensive dataset provided by Yelp giving us information on businesses, users, reviews and user check-ins into certain businesses.<br>
+Given that the dataset is huge, we will cut it down by focusing on businesses in California, which has a very high concentration of various businesses and many active users, as well as being a big state surface-wise with a relatively high population density.<br>
+We will try to clean the data and perform various statistical analysis and plottings  in order to draw conclusions on the effect of friend’s yelp reviews on one's mobility. The intuition is that if a user’s friend has given a positive or negative review for a certain business, chances are that that friend has talked to that user about it, enabling the user to check-out or not the business, regardless if they have seen the friend’s review or not.<br>
+This is another facet of the effects on friendships on short and long distance travelling, studied in the reference paper. We expect to find some similar results, that long distance mobility in particular is strongly linked to friends' presence and opinions on certain businesses.<br>
 
 ## Research Questions
 A list of research questions you would like to address during the project.
@@ -58,6 +58,7 @@ For the last week, we will work collectively on:
 - Writing of the report 
 
 ## Reference: 
-- Paper source: http://ial.eecs.ucf.edu/Reading/Papers/Friendship%20and%20Mobility%20User%20Movement%20In%20Location-Based%20Social%20Networks.pdf
-- Dataset source: https://www.yelp.com/dataset/download
+- Paper: Friendship and Mobility: User Movement in
+Location-Based Social Networks [Source](http://ial.eecs.ucf.edu/Reading/Papers/Friendship%20and%20Mobility%20User%20Movement%20In%20Location-Based%20Social%20Networks.pdf).
+- Yelp Dataset [source](https://www.yelp.com/dataset/download).
 
