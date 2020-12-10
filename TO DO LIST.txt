@@ -1,0 +1,39 @@
+Pers 1: Malo
+Pers 2: Xiaoyan 
+Pers 3: Paul
+
+
+# Study rating's influence on mobility with respect to traveling distance <-- 3
+- the x-axis: the distance travelled 
+- the y-axis: the probability to travel to distance x and traveling to well rated business (i.e stars >= 3.5) 
+		P(well rated|distance=d)
+
+Create the null-model:
+The null model: sample checkins with distribution of businesses on square_id's 
+- the x-axis: the distance travelled 
+- the y-axis: he probability to travel to distance x and traveling to well rated business (i.e stars >= 3.5)
+
+
+# Study friend's ratings influence on mobility with respect to traveling distance
+1. Friend recommend 
+- the x-axis: the distance travelled 
+- the y-axis: the probability to travel to distance d and traveling to a business recommended by a friend (i.e >= 3.5 stars)
+Attention: check that friend posted review prior to travelling date 
+
+Sur la dataframe checkins à faire:
+- place reviewed label: reviewed by friend before (good review >= 3.5: 2, bad review < 3.5: 1, not reviewed: 0) <-- 1
+- place distance label: place label = distance to user's home <-- 2
+
+- group by distance, and for each group card(label 2)/card(group) <-- 2
+
+2. Friend avoid 
+- the x-axis: the distance travelled 
+- the y-axis: the probability to travel to distance d and traveling to a business not recommended by a friend (i.e < 3.5 stars)
+
+
+# Words of mouth effect: 
+Only on checkins that have been a reviewed by a friend before, study the probability to move to a well reviewed business with respect to distance 
+- the x-axis: the distance travelled 
+- the y-axis: the probability to travel to distance x and traveling to businesses (reviewed by a friend) and (with a rate greater or equal than 3.5)
+
+- group by distance, and for each group card(label 2)/[card(label 2) + card(label 1)] <-- 2
