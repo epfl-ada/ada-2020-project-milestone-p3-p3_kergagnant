@@ -37,3 +37,18 @@ Only on checkins that have been a reviewed by a friend before, study the probabi
 - the y-axis: the probability to travel to distance x and traveling to businesses (reviewed by a friend) and (with a rate greater or equal than 3.5)
 
 - group by distance, and for each group card(label 2)/[card(label 2) + card(label 1)] <-- 2
+
+
+
+
+one plot per week-day:
+x-axis: week day
+y-axis: probability to travell to distance d
+
+one plot per category:
+number of checkins as function of distance to travel
+
+
+quelle catégorié a été checkin quand
+
+
