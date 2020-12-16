@@ -1,0 +1,1337 @@
+,name,category
+0,'Travel Services', Travel
+1,'Kitchen Incubators', Home
+2,'Medical Transportation', Health
+3,'Private Jet Charter', Travel
+4,'Specialty Food', Food
+5,'Lebanese', Food
+6,'Junk Removal & Hauling', Miscellaneous
+7,'LAN Centers', Computers
+8,'Skiing', Sport
+9,'Civic Center', Miscellaneous
+10,'Roofing', Construction
+11,'Courthouses', Legal
+12,'Hungarian', Food
+13,'Heating & Air Conditioning/HVAC', Construction 
+14,'Home Network Installation', Computers
+15,'Public Services & Government', Miscellaneous
+16,'Printing Services', Business Support
+17,'Wigs', Personal Care
+18,'Personal Chefs', Food
+19,'Christmas Trees', Home
+20,'Visitor Centers', Miscellaneous
+21,'Internet Service Providers', Computers
+22,'Halotherapy', Personal Care
+23,'Planetarium', Entertainment
+24,'Interval Training Gyms', Sport
+25,'Hospitals', Health
+26,'High Fidelity Audio Equipment', Computers
+27,'Montessori Schools', Education
+28,'Veterinarians', Health
+29,'Ski & Snowboard Shops', Merchants
+30,'Soul Food', Food
+31,'Australian', Food
+32,'Herbal Shops', Personal Care
+33,'Milkshake Bars', Food
+34,'Ticket Sales', Entertainment
+35,'Rugs', Home
+36,'Utilities', Merchants
+37,'Real Estate Photography', Real Estate
+38,'Food Trucks', Food
+39,'Maternity Wear', Merchants
+40,'Caribbean', Food
+41,'Emergency Medicine', Health
+42,'Hot Air Balloons', Travel
+43,'Vocal Coach', Education
+44,'Popcorn Shops', Food
+45,'Farming Equipment', Merchant
+46,'Squash', Sport
+47,'Mortuary Services', Miscellaneous
+48,'Fireworks', Entertainment 
+49,'Movers', Travel
+50,'Flight Instruction', Education
+51,'Conveyor Belt Sushi', Food
+52,'Fish & Chips', Food
+53,'Framing', Home
+54,'Syrian', Food
+55,'Holiday Decorating Services', Home
+56,'Investing', Legal
+57,'Weight Loss Centers', Personal Care
+58,'Sports Psychologists', Health
+59,'Rest Stops', Personal Care
+60,'IP & Internet Law', Legal
+61,'Pain Management', Personal Care
+62,'Turkish', Food
+63,'Event Photography', Business Support
+64,'Juice Bars & Smoothies', Food
+65,'Community Service/Non-Profit', Miscellaneous
+66,'Indian', Food
+67,'Child Care & Day Care', Education
+68,'Gelato', Food
+69,'Active Life', Personal Care
+70,'Czech/Slovakian', Food
+71,'Surf Shop', Merchants
+72,'Real Estate', Real Estate
+73,'Skate Parks', Sport
+74,'Architectural Tours', Entertainment
+75,'Grilling Equipment', Home
+76,'Eritrean', Food
+77,'Pool Cleaners', Construction
+78,'Barbers', Personal Care
+79,'Cabaret', Entertainment
+80,'Dog Parks', Miscellaneous
+81,'Automotive', Automotive
+82,'Dialysis Clinics', Health
+83,'Handyman', Construction
+84,'Translation Services', Education
+85,'Masonry/Concrete', Construction
+86,'Hot Dogs', Food
+87,'Beach Bars', Food
+88,'Motorcycle Parts & Supplies', Automotive
+89,'Diamond Buyers', Merchants
+90,'Gutter Services', Consruction
+91,'Psychics', Personal Care
+92,'Spin Classes', Education
+93,'Beach Equipment Rentals', Merchants
+94,'Seafood Markets', Merchants
+95,'Nicaraguan', Food
+96,'Aquariums', Entertainement
+97,'Wraps', Business Support
+98,'Ethnic Food', Food
+99,'Art Tours', Entertainments
+100,'Colleges & Universities', Education
+101,'Baby Gear & Furniture', Merchants
+102,'Environmental Testing', Construction
+103,'Live/Raw Food', Food
+104,'Balloon Services', Construction
+105,'Champagne Bars', Food
+106,'Misting System Services', Construction
+107,'Studio Taping', Entertainment
+108,'Pick Your Own Farms', Merchants
+109,'Departments of Motor Vehicles', Automotive
+110,'Art Installation', Entertainment
+111,'Chimney Sweeps', Home
+112,'Hydro-jetting', Construction
+113,'Egyptian', Food
+114,'Spine Surgeons', Health
+115,'Photography Stores & Services', Business Support
+116,'Speech Therapists', Health
+117,'Music & Video', Entertainment
+118,'Gerontologists', Health
+119,'Rock Climbing', Sport
+120,'Erotic Massage', Personal Care
+121,'Cinema', Entertainment
+122,'3D Printing', Business Support
+123,'Surf Schools', Education
+124,'Ayurveda', Personal Care
+125,'Periodontists', Health
+126,'Gardeners', Home
+127,'Car Dealers', Automotive
+128,'Golf Equipment', Merchants
+129,'Boat Dealers', Automotive
+130,'CPR Classes', Education
+131,'Water Suppliers', Construction
+132,'Landscaping', Home
+133,'Aerial Tours', Entertainment
+134,'Horseback Riding', Sport
+135,'Private Investigation', Legal
+136,'Swimming Lessons/Schools', Education
+137,'Fire Departments', Miscellaneous
+138,'Reproductive Health Services', Health
+139,'Business Financing', Legal
+140,'Beverage Store', Food
+141,'Signature Cuisine', Food
+142,'International', Food
+143,'Funeral Services & Cemeteries', Miscellaneous
+144,'Supper Clubs', Food
+145,'Psychologists', Health
+146,'Catalan', Food
+147,'Hearing Aid Providers', Health
+148,'Carpet Installation', Home
+149,'Feng Shui', Sport
+150,'Comfort Food', Food
+151,'Jewelry Repair', Merchants
+152,'Radiologists', Health
+153,'Makeup Artists', Personal Care
+154,'Homeowner Association', Miscellaneous
+155,'Japanese Sweets', Food
+156,'Countertop Installation', Construction
+157,'Cannabis Dispensaries', Merchants
+158,'Grocery', Food
+159,'Fuel Docks', Automotive
+160,'Pub Food', Food
+161,'Cosmetic Surgeons', Health
+162,'Pilates', Personal Care
+163,'Speech Training', Education
+164,'Education', Education
+165,'Imported Food', Food
+166,'Immigration Law', Legal
+167,'Anesthesiologists', Health
+168,'Carpet Dyeing', Home
+169,'Party Supplies', Merchants
+170,'Pediatricians', Health
+171,'Office Cleaning', Business Support
+172,'Resorts', Travel
+173,'Packing Supplies', Business Support
+174,'Bar Crawl', Food
+175,'Sledding', Sport
+176,'Street Vendors', Merchants
+177,'Korean', Food
+178,'Department Stores', Merchants
+179,'Notaries', Legal
+180,'Salad', Food
+181,'Clock Repair', Home
+182,'Pita', Food
+183,'Memory Care', Personal Care
+184,'Signmaking', Business Support
+185,'Snorkeling', Sport
+186,'Fences & Gates', Construction
+187,'Vape Shops', Merchants
+188,'Toy Stores', Merchants
+189,'Health & Medical', Health
+190,'Estate Liquidation', Legal
+191,'Dentists', Health
+192,'Registration Services', Legal
+193,'Halfway Houses', Real Estate
+194,'Asian Fusion', Food
+195,'Farmers Market', Merchants
+196,'Marinas', Travel
+197,'Hair Salons', Personal Care
+198,'Market Stalls', Merchants
+199,'Pet Sitting', Personal Care
+200,'Window Washing', Home
+201,'Grout Services', Construction
+202,'Passport & Visa Services', Legal
+203,'Recreation Centers', Education
+204,'CSA', Miscellaneous
+205,'Club Crawl', Entertainment
+206,'Honey', Food
+207,'Public Relations', Legal
+208,'Latin American', Food
+209,'Game Truck Rental', Travel
+210,'Vocational & Technical School', Education
+211,'Donation Center', Health
+212,'Fireplace Services', Home
+213,'Knitting Supplies', Merchants
+214,'Home Organization', Home
+215,'Hunting & Fishing Supplies', Merchants
+216,'Laser Tag', Entertainment
+217,'Auto Detailing', Automotive
+218,'Aerial Fitness', Sport
+219,'Office Equipment', Business Support
+220,'Casinos', Entertainment
+221,'Hot Tub & Pool', Home
+222,'Indoor Playcentre', Education
+223,'Beaches', Travel
+224,'Hobby Shops', Merchant
+225,'Massage', Personal Care
+226,'Sport Equipment Hire', Sport
+227,'Tapas Bars', Food
+228,'Sports Bars', Sport
+229,'Windshield Installation & Repair', Automotive
+230,'Singaporean', Food
+231,'Cremation Services', Miscellaneous
+232,'Wine Tasting Room', Food
+233,'Videographers', Entertainment
+234,'Go Karts', Entertainment
+235,'Indoor Landscaping', Home
+236,'Tanning Beds', Personal Care
+237,'Bookbinding', Miscellaneous
+238,'Vintage & Consignment', Merchants
+239,'Drywall Installation & Repair', Construction
+240,'Used', Merchants
+241,'Security Systems', Home
+242,'Car Rental', Automotive
+243,'Professional Services', Miscellaneous
+244,'Brazilian Jiu-jitsu', Sport
+245,'Dumplings', Food
+246,'Naturopathic/Holistic', Personal Care
+247,'Race Tracks', Entertainment
+248,'Ultrasound Imaging Centers', Health
+249,'Comic Books', Merchants
+250,'Persian/Iranian', Food
+251,'Mailbox Centers', Miscellaneous
+252,'Argentine', Food
+253,'Boot Camps', Personal Care
+254,'Carpenters', Construction
+255,'Ophthalmologists', Health
+256,'Life Insurance', Legal
+257,'Engraving', Miscellaneous
+258,'Concept Shops', Entertainment
+259,'Fabric Stores', Merchants
+260,'RV Repair', Home
+261,'Metro Stations', Travel
+262,'Wedding Planning', Entertainment
+263,'Patisserie/Cake Shop', Food
+264,'Lice Services', Home
+265,'Registry Office', Legal
+266,'Iberian', Food
+267,'Sheds & Outdoor Storage', Home
+268,'Cheerleading', Sport
+269,'Mauritius', Food
+270,'Natural Gas Suppliers', Miscellaneous
+271,'Modern European', Mischellaneous
+272,'Moroccan', Food
+273,'Macarons', Food
+274,'Biohazard Cleanup', Construction
+275,'Private Schools', Education
+276,'Videos & Video Game Rental', Entertainment
+277,'Tutoring Centers', Education
+278,'Cocktail Bars', Food
+279,'Urologists', Health
+280,'Architects', Construction
+281,'French', Food
+282,'Newspapers & Magazines', Entertainment
+283,'Kombucha', Food
+284,'Gymnastics', Sport
+285,'Sports Betting', Entertainment
+286,'Patio Coverings', Home
+287,'Backshop', Real Estate
+288,'Desserts', Food
+289,'Carousels', Entertainment
+290,'Music Production Services', Entertainment
+291,'Cosmetology Schools', Education
+292,'Tanning', Personal Care
+293,'Lawyers', Legal
+294,'Machine & Tool Rental', Construction
+295,'Prenatal/Perinatal Care', Health
+296,'Acai Bowls', Food
+297,'Elder Care Planning', Health
+298,'Skin Care', Personal Care
+299,'Bike Shop', Travel
+300,'Customized Merchandise', Merchants
+301,'Waxing', Personal Care
+302,'Russian', Food
+303,'Cupcakes', Food
+304,'Furniture Repair', Home
+305,'Senior Centers', Health
+306,'Traditional Clothing', Merchants
+307,'Trains', Travel
+308,'Video/Film Production', Entertainment
+309,'Osteopaths', Health
+310,'Lawn Services', Home
+311,'Food', Food
+312,'Retina Specialists', Health
+313,'Vietnamese', Food
+314,'Arts & Entertainment', Entertainment
+315,'Advertising', Business Support
+316,'Sugaring', Personal Care
+317,'Ceremonial Clothing', Merchants
+318,'Salvadoran', Food
+319,'Beauty & Spas', Personal Care
+320,'Aviation Services', Travel
+321,'Golf Cart Rentals', Automotive
+322,'Special Education', Education
+323,'Jewelry', Merchants
+324,'Parks', Entertainment
+325,'Trusts', Legal
+326,'Lingerie', Merchants
+327,'Hookah Bars', Entertainment
+328,'Colombian', Food
+329,'Flooring', Home
+330,'Threading Services', Merchants
+331,'Home Services', Home
+332,'Tonkatsu', Food
+333,'Bounce House Rentals', Entertainment
+334,'South African', Food
+335,'Body Contouring', Personal Care
+336,'Talent Agencies', Entertainment
+337,'Dance Clubs', Entertainment
+338,'Bubble Tea', Food
+339,'Tuscan', Food
+340,'Boat Repair', Automotive
+341,'Gun/Rifle Ranges', Entertainment
+342,'Occupational Therapy', Personal Care
+343,'Motorcycle Rental', Automotive
+344,'Pets', Personal Care
+345,'Plus Size Fashion', Merchants
+346,'Rotisserie Chicken', Food
+347,'Tattoo Removal', Personal Care
+348,'Arts & Crafts', Merchants
+349,'Belgian', Food
+350,'Bookkeepers', Entertainment
+351,'Home Inspectors', Legal
+352,'Session Photography', Entertainemnt
+353,'Behavior Analysts', Legal
+354,'Henna Artists', Personal Care
+355,'Financial Advising', Legal
+356,'Hot Pot', Food
+357,'Home Decor', Home
+358,'Eyewear & Opticians', Health
+359,'Prosthodontists', Health
+360,'Auto Glass Services', Automotive
+361,'Parenting Classes', Education
+362,'Gift Shops', Merchants
+363,'Bike Repair', Travel
+364,'Mags', Entertainment
+365,'Trailer Rental', Legal
+366,'Tires', Automotive
+367,'Meat Shops', Food
+368,'Food Stands', Food
+369,'Hybrid Car Repair', Automotive
+370,'Uniforms', Merchants
+371,'Oncologist', Health
+372,'Challenge Courses', Entertainment
+373,'Train Stations', Travel
+374,'Pan Asian', Health
+375,'Teppanyaki', Health
+376,'Donairs', Food
+377,'Buses', Travel
+378,'Body Shops', Personal Care
+379,'Home Theatre Installation', Entertainment
+380,'Generator Installation/Repair', Construction
+381,'Permanent Makeup', Personal Care
+382,'Gay Bars', Entertainment
+383,'Junkyards', Miscellaneous
+384,'Religious Items', Merchants
+385,'Guamanian', Food
+386,Men's Clothing, Merchants
+387,'Hang Gliding', Entertainment
+388,'Sporting Goods', Sport
+389,'Cannabis Tours', Entertainment
+390,'Outdoor Furniture Stores', Home
+391,'Yoga', Sport
+392,'Skating Rinks', Sport
+393,'Endocrinologists', Health
+394,'Cheesesteaks', Food
+395,'Home Staging', Home
+396,'Himalayan/Nepalese', Food
+397,'Oral Surgeons', Health
+398,'Hiking', Sport
+399,'Holistic Animal Care', Personal Care
+400,'Childbirth Education', Education
+401,'Sewing & Alterations', Merchants
+402,'Hotel bar', Travel
+403,'Water Parks', Entertainment
+404,'Diners', Food
+405,'Professional Sports Teams', Sport
+406,'Neurotologists', Health
+407,'Customs Brokers', Legal
+408,'Bubble Soccer', Sport
+409,'Caterers', Personal Care
+410,'Laser Eye Surgery/Lasik', Health
+411,'Traffic Ticketing Law', Legal
+412,'Commissioned Artists', Entertainment
+413,'Organic Stores', Merchants
+414,'Dry Cleaning & Laundry', Merchants
+415,'Pet Adoption', Personal Care
+416,'Vinyl Records', Entertainment
+417,'Fertility', Health
+418,'Flowers & Gifts', Merchants
+419,'Szechuan', Food
+420,'Cryotherapy', Personal Care
+421,'Breakfast & Brunch', Food
+422,'Religious Schools', Education
+423,'Kosher', Food
+424,'Ranches', Entertainment
+425,'Ethical Grocery', Food
+426,'Flea Markets', Merchants
+427,'Massage Schools', Education
+428,'Legal Services', Legal
+429,'Trophy Shops', Merchants
+430,'Pawn Shops', Merchants
+431,'Sugar Shacks', Food
+432,'Tree Services', Construction
+433,'University Housing', Real Estate
+434,'Coffee & Tea Supplies', Food
+435,'Auto Repair', Automotive
+436,'Pet Stores', Personal Care
+437,'Food Banks', Food
+438,'Barre Classes', Sport
+439,'Free Diving', Sport
+440,'Safe Stores', Home
+441,'Spiritual Shop', Food
+442,Men's Hair Salons, Personal Care
+443,'Municipality', Miscellaneous
+444,'Beer Garden', Food
+445,'Bocce Ball', Home
+446,'Scooter Tours', Travel
+447,'Electronics', Computers
+448,'Town Hall', Miscellaneous 
+449,'Television Stations', Entertainment 
+450,'Pop-Up Restaurants', Food
+451,'Eyebrow Services', Personal Care
+452,'Basque', Food
+453,'Races & Competitions', Home
+454,'Pet Groomers', Personal Care
+455,'Bangladeshi', Food
+456,'Observatories', Construction 
+457,'Meaderies', Construction
+458,'Mass Media', Entertainment 
+459,'Horse Boarding', Entertainment 
+460,'Surfing', Sport
+461,'Roadside Assistance', Construction
+462,'Infectious Disease Specialists', Health
+463,'Wineries', Food
+464,'Udon', Food
+465,'Electricians', Computers
+466,'Commercial Truck Repair', Automotive
+467,'Izakaya', Food
+468,'Pet Boarding', Personal Care
+469,'Criminal Defense Law', Legal 
+470,'Post Offices', Real Estate 
+471,'Adult Entertainment', Entertainment 
+472,'Outlet Stores', Merchants
+473,'Kickboxing', Sport
+474,'Cafeteria', Food
+475,'Security Services', Business Support
+476,'Herbs & Spices', Food
+477,'Powder Coating', Personal Care
+478,'Linens', Home
+479,'Piano Bars', Food
+480,'Furniture Stores', Merchants 
+481,'Waterproofing', Home
+482,'Mattresses', Home
+483,'Floral Designers', Home
+484,'Local Services', Personal Care
+485,'Pole Dancing Classes', Entertainment 
+486,'Food Tours', Food
+487,'Apartments', Real Estate 
+488,'Art Restoration', Business Support
+489,'Buffets', Food
+490,'Public Transportation', Travel
+491,'Gemstones & Minerals', Food 
+492,'Keys & Locksmiths', Home 
+493,'Boating', Sport
+494,'Street Art', Education
+495,'Furniture Assembly', Merchants
+496,'Medical Spas', Personal Care
+497,'Pet Photography', Personal Care
+498,'Irish Pub', Food
+499,'American (New)', Food
+500,'Musicians', Home
+501,'Employment Law', Legal
+502,'Axe Throwing', Sport
+503,'Formal Wear', Merchants
+504,'Gunsmith', Merchants
+505,'Apartment Agents', Real Estate
+506,'Chimney Cakes', Food
+507,'Lighting Fixtures & Equipment', Home
+508,'Japanese Curry', Food
+509,'Damage Restoration', Automotive
+510,'Local Flavor', Food
+511,'Kids Hair Salons', Personal Care
+512,'Props', Business Support
+513,'Bridal', Miscellaneous 
+514,'Embroidery & Crochet', Home 
+515,'Dermatologists',Health 
+516,'Dental Hygienists', Health 
+517,'Cannabis Collective', Merchants
+518,'Allergists', Health
+519,'& Probates', Legal
+520,'Perfume', Merchants
+521,'Striptease Dancers', Miscellaneous
+522,'Reunion', Business Support
+523,'Tours', Travel
+524,'Shopping', Merchants
+525,'Bakeries', Food
+526,'Marketing', Merchants
+527,'Traffic Schools', Education
+528,'Food Safety Training', Education
+529,'Pasta Shops', Food
+530,'Bird Shops', Merchants 
+531,'Nail Technicians', Personal Care
+532,'Electronics Repair', Automotive
+533,'Used Car Dealers', Merchants
+534,'Olive Oil', Food
+535,'Diagnostic Imaging', Health
+536,'Art Space Rentals', Real Estate 
+537,'Music Venues', Entertainment 
+538,'Siding', Construction
+539,'Chinese', Food
+540,'Air Duct Cleaning', Home
+541,'Home Automation', Automotive 
+542,'Wholesalers', Merchants
+543,'Endodontists', Miscellaneous
+544,'Churros', Food 
+545,'Guns & Ammo', Merchants
+546,'New Mexican Cuisine', Food
+547,'Driving Schools', Education
+548,'Makerspaces', Real Estate
+549,'Pulmonologist', Health
+550,'Restaurant Supplies', Food
+551,'Brazilian', Food
+552,'Appraisal Services', Business Support 
+553,'Japanese', Food
+554,'Adult Education', Education
+555,'Title Loans', Legal 
+556,'Art Consultants', Miscellaneous 
+557,'Preventive Medicine', Health 
+558,'Butcher', Miscellaneous
+559,'Paint & Sip', Entertainment 
+560,'Art Museums', Entertainment 
+561,'Self Storage',  Real Estate 
+562,'Party & Event Planning', Business Support 
+563,'Mediterranean', Food
+564,'Climbing', Sport
+565,'Contractors', Miscellaneous 
+566,'Archery', Sport
+567,'Truck Rental', Automotive 
+568,'Nudist', Miscellaneous 
+569,'Do-It-Yourself Food', Food
+570,'Nightlife', Entertainment 
+571,'Bungee Jumping', Food
+572,'Art Supplies', Entertainment 
+573,'Fishing', Sport
+574,'Urgent Care', Health 
+575,'Condominiums', Real Estate 
+576,'Water Purification Services', Business Support
+577,'Animal Physical Therapy', Personal Care
+578,'Trainers', Personal Care
+579,'DUI Law', Legal
+580,'Ear Nose & Throat', Health 
+581,'Rehabilitation Center', Health 
+582,'Carpet Cleaning', Home
+583,'Laundromat', Business Support
+584,'Bike tours', Travel 
+585,'Vehicle Shipping', Merchants
+586,'Insulation Installation', Business Support
+587,'Interior Design', Business Support
+588,'Packing Services', Business Support
+589,'Oxygen Bars', Food
+590,'Tax Law', Legal
+591,'Accountants', Miscellaneous 
+592,'Game Meat', Food
+593,'Nephrologists', Health
+594,'Pet Breeders', Personal Care 
+595,'Gyms', Sport
+596,'Tickets', Travel
+597,'Drama Schools', Education 
+598,'Personal Injury Law', Legal
+599,'Empanadas', Food
+600,'Real Estate Law', Legal
+601,'Boat Parts & Supplies', Business Support
+602,'Surgeons', Health
+603,'Jails & Prisons', Real Estate
+604,'Laboratory Testing', Health
+605,'Day Camps', Entertainment 
+606,'Leather Goods', Merchants
+607,'Bus Tours', Travel
+608,'Airsoft', Merchants
+609,'Recycling Center', Real Estate 
+610,'Horse Equipment Shops', Merchants
+611,'Golf Cart Dealers', Miscellaneous
+612,'Team Building Activities', Business Support
+613,'Dive Bars', Food
+614,'Shipping Centers', Real Estate 
+615,'Gastroenterologist', Health
+616,'Massage Therapy', Health
+617,'Bail Bondsmen', Legal
+618,'Environmental Abatement', Construction
+619,'Dive Shops', Merchants
+620,'Car Wash', Business Support
+621,'Airport Shuttles', Construction
+622,'Caricatures', Entertainment 
+623,'Water Stores', Merchants 
+624,'Test Preparation', Health 
+625,'Pest Control', Business Support
+626,'Seafood', Food
+627,'Optometrists', Miscellaneous 
+628,'Interlock Systems', Construction
+629,'Wine Tours', Travel
+630,'Foundation Repair', Automotive 
+631,'Machine Shops', Merchants
+632,'Synagogues', Real Estate 
+633,'Trailer Dealers', Miscellaneous
+634,'Cabinetry', Home
+635,'Paint-Your-Own Pottery', Entertainment 
+636,'Middle Schools & High Schools', Education 
+637,'Transportation', Travel 
+638,'Ski Schools', Education
+639,'Stucco Services', Business Support
+640,'Travel Agents', Travel
+641,'Home Energy Auditors', Miscellaneous 
+642,'Elevator Services', Business Support
+643,'Ski Resorts', Real Estate 
+644,'Bulgarian', Food
+645,'Financial Services', Business Support
+646,'Airlines', Travel
+647,'Musical Instrument Services', Business Support
+648,'Pet Cremation Services', Personal Care
+649,'Web Design', Business Support
+650,'Carpeting', Home 
+651,'Bus Rental', Automotive 
+652,'Social Security Law', Legal
+653,'Personal Assistants', Miscellaneous
+654,'Pediatric Dentists', Health 
+655,'Pet Waste Removal', Personal Care 
+656,'Cideries', Construction
+657,'Propane', Automotive 
+658,'Hotels', Travel
+659,'Cigar Bars', Food
+660,'Taiwanese', Food
+661,'Tiki Bars', Food
+662,'Canadian (New)', Food
+663,'Restaurants', Food
+664,'Campgrounds', Entertainment 
+665,'Elder Law', Legal
+666,'Speakeasies', 
+667,'Personal Shopping', Merchants
+668,'Vacation Rentals', Automotive 
+669,'Consumer Law', Legal
+670,'Psychiatrists', Health
+671,'Metal Fabricators', Construction 
+672,'Bed & Breakfast', Food
+673,'Ramen', Food
+674,'Neurologist', Health
+675,'Debt Relief Services', Legal 
+676,'Grill Services', Food
+677,'Beer Bar', Food
+678,'DJs', Entertainment 
+679,'Preschools', Education 
+680,'Vegetarian', Food
+681,'Chicken Wings', Food
+682,'Golf Lessons', Education 
+683,'Vehicle Wraps', Construction 
+684,'Shoe Shine', Merchants
+685,'Lakes', Entertainment 
+686,'Used Bookstore', Merchants 
+687,'Museums', Travel 
+688,'Pedicabs', Automotive
+689,'Ethnic Grocery', Food
+690,'Traditional Chinese Medicine', Health
+691,'Amusement Parks', Entertainment 
+692,'Trampoline Parks', Entertainment 
+693,'Sports Clubs', Entertainment 
+694,'Bike Sharing', Travel 
+695,'Dietitians', Health 
+696,'Coffeeshops', Merchants
+697,'Walk-in Clinics', Health
+698,'Employment Agencies', Business Support
+699,'Party Equipment Rentals', Automotive 
+700,'Teacher Supplies', Education
+701,'Kitchen Supplies', Business Support 
+702,'Kitchen & Bath', Business Support 
+703,'Emergency Pet Hospital', Health 
+704,'Health Insurance Offices', Real Estate 
+705,'Rodeo', Entertainment
+706,'Art Classes', Education
+707,'Ziplining', Sport
+708,'Paddleboarding', Sport
+709,'Pet Services', Personal Care
+710,'Thrift Stores', Merchants 
+711,'Cheese Tasting Classes', Food
+712,'Patent Law', Legal
+713,'Meditation Centers', Real Estate 
+714,'Dinner Theater', Entertainment
+715,'Shoe Stores', Merchants 
+716,'Glass & Mirrors', Home
+717,'Whiskey Bars', Food
+718,'Themed Cafes', Food
+719,'Self-defense Classes', Entertainment 
+720,'House Sitters', Miscellaneous 
+721,'Software Development', Computers
+722,'Fencing Clubs', Entertainment 
+723,'Spanish', Food
+724,'Nursing Schools', Education
+725,'Outdoor Movies', Entertainment 
+726,'Pet Transportation', Personal Care
+727,'Clothing Rental', Business Support
+728,'Furniture Rental', Business Support
+729,'Cosmetics & Beauty Supply', Business Support
+730,'Art Schools', Education 
+731,'Eyelash Service', Personal Care
+732,'Food Delivery Services', Business Support 
+733,'Process Servers', Business Support 
+734,'Retirement Homes', Real Estate 
+735,'Diagnostic Services', Health
+736,'Smokehouse', Real Estate 
+737,'Neuropathologists', Health
+738,'Shaved Snow', Entertainment 
+739,'Alternative Medicine', Health 
+740,'Auction Houses', Real Estate
+741,'Bike Repair/Maintenance', Automotive 
+742,'Awnings', Entertainment
+743,'Pet Training', Education
+744,'Shoe Repair', Personal Care
+745,'Shared Office Spaces', Real Estate 
+746,'Parking', Real Estate 
+747,'Trinidadian', Food
+748,'Public Art', Entertainment 
+749,'Hazardous Waste Disposal', Business Support 
+750,'Decks & Railing', Construction
+751,'Eatertainment', Entertainment 
+752,'Towing', Automotive 
+753,'Reptile Shops', Merchants
+754,'Shanghainese', Food
+755,'Pretzels', Food
+756,'Farms', Real Estate
+757,'TV Mounting', Entertainment 
+758,'Hindu Temples', Real Estate
+759,'Aircraft Repairs', Automotive 
+760,'Hakka', Sport
+761,'Water Heater Installation/Repair', Automotive 
+762,'Astrologers', Miscellaneous
+763,'Slovakian', Food
+764,'Brasseries', Food
+765,'Drugstores', Merchants 
+766,'Auto Security', Automotive 
+767,'Cantonese', Food
+768,'Circuit Training Gyms', Sport
+769,'Video Game Stores', Merchants
+770,'Historical Tours', Travel 
+771,'Leisure Centers', Real Estate 
+772,'First Aid Classes', Education
+773,'Bingo Halls', Miscellaneous
+774,'Distilleries', Distilleries
+775,'Cycling Classes', Education
+776,'Car Auctions', Automotive 
+777,'Print Media', Entertainment
+778,'Hospice', Health
+779,'Boudoir Photography', Business Support
+780,'Mobile Clinics', Health 
+781,'Beach Volleyball', Sport
+782,'Outdoor Gear', Entertainment 
+783,'Island Pub', Food
+784,'Armenian', Food
+785,'Glass Blowing', Manufacturing
+786,'Matchmakers', Miscellaneous 
+787,'Candy Stores', Merchants 
+788,'Shaved Ice', Food
+789,'Burgers', Food
+790,'Estate Planning Law', Legal
+791,'Experiences', Education 
+792,'Mosques', Real Estate 
+793,'Auto Insurance', Automotive 
+794,'Mobile Home Parks', Real Estate 
+795,'Calligraphy', Entertainment 
+796,'Health Markets', Health
+797,'Animal Shelters', Miscellaneous
+798,'Aquarium Services', Business Support 
+799,'Muay Thai', Food
+800,'Senegalese', Food
+801,'Obstetricians & Gynecologists', Health 
+802,'Laotian', Food 
+803,'Beer Gardens', Food
+804,'Irish', Food
+805,'Tex-Mex', Food
+806,'Walking Tours', Travel
+807,'Social Clubs', Entertainment 
+808,'Car Stereo Installation', Business Support
+809,'Yelp Events', Entertainment 
+810,'Party Bike Rentals', Travel
+811,'Paragliding', Sport
+812,'Botanical Gardens', Real Estate 
+813,'Hockey Equipment', Sport
+814,'Float Spa', Personal Care
+815,'British', Food
+816,'Pet Hospice', Real Estate
+817,'Dance Studios', Entertainment
+818,Children's Museums, Entertainment 
+819,'Bicycles', Automotive 
+820,'Musical Instruments & Teachers', Education
+821,'Haunted Houses', Real Estate 
+822,'Swimming Pools', Real Estate 
+823,'Music & DVDs', Entertainment 
+824,'Auto Parts & Supplies', Business Support 
+825,'Creperies', Food
+826,'Reflexology', Health 
+827,'Blow Dry/Out Services', Business Support
+828,'Car Buyers', Merchants
+829,'Garage Door Services', Business Support 
+830,'Wholesale Stores', Manufacturing
+831,'Noodles', Food
+832,'Kebab', Food
+833,'Indonesian', Food
+834,'IV Hydration', Health
+835,'Pathologists',Health
+836,'Service Stations', Business Support 
+837,'Face Painting', Entertainment 
+838,'Health Retreats', Health
+839,'Chicken Shop', Food
+840,'Roof Inspectors', Miscellaneous 
+841,'Firewood', Home
+842,'Childproofing',Education
+843,'Dance Wear', Merchants
+844,'Polynesian', Food
+845,'Elementary Schools', Education 
+846,'Smog Check Stations', Real Estate 
+847,'Middle Eastern', Food
+848,'Plumbing', Construction
+849,'RV Dealers', Miscellaneous
+850,'Home & Rental Insurance', Legal 
+851,'Jazz & Blues', Entertainment 
+852,'Military Surplus', Entertainment 
+853,'Insurance', Legal 
+854,'Tacos', Food
+855,'Pet Insurance', Legal 
+856,'Private Tutors', Miscellaneous
+857,'Dog Walkers', Miscellaneous
+858,'Souvenir Shops', Merchants
+859,'Soccer', Sport
+860,'Lactation Services', Business Support 
+861,'Wildlife Hunting Ranges', Sport
+862,'Festivals', Entertainment 
+863,'Internal Medicine', Health 
+864,'Electricity Suppliers', Business Support 
+865,'Libraries', Education 
+866,'Waldorf Schools', Education 
+867,'Television Service Providers', Miscellaneous 
+868,'Cultural Center', Real Estate 
+869,'Cosmetic Dentists', Personal Care
+870,'Orthodontists', Personal Care
+871,'Medical Cannabis Referrals', Health
+872,'DIY Auto Shop', Automotive
+873,'Guest Houses', Travel 
+874,'Calabrian', Food
+875,'Cardiologists', Health
+876,'Afghan', Food
+877,'Malaysian', Food
+878,'Livestock Feed & Supply', Business Support
+879,'Dumpster Rental', Home
+880,'Soup', Food
+881,'Wills', Health
+882,'Demolition Services', Construction 
+883,'Airports', Real Estate 
+884,'Furniture Reupholstery', Merchants
+885,'Wheel & Rim Repair', Automotive
+886,'Golf Equiment Shops', Merchants
+887,'Sicilian', Food
+888,'Southern', Food
+889,'Boat Tours',Travel
+890,'Tui Na', Personal Care
+891,'Diving', Sport 
+892,'Police Departments', Miscellaneous
+893,'Austrian', Food
+894,'Digitizing Services', Business Support
+895,'Filipino', Food
+896,'Door Sales/Installation', Construction
+897,'Outdoor Power Equipment Services', Construction
+898,'Radio Stations', Entertainment
+899,'Landscape Architects', Construction
+900,'Banks & Credit Unions', Legal
+901,'Photo Booth Rentals', Manufacturing
+902,'Tabletop Games', Merchants
+903,'Fitness/Exercise Equipment', Merchants
+904,'Poutineries', Food
+905,'Florists', Merchants
+906,'Valet Services', Miscellaneous
+907,'Sports Wear', Merchants
+908,'Teeth Whitening', Health
+909,'Solar Panel Cleaning', Construction
+910,'Scooter Rentals', Travel
+911,'Hypnosis/Hypnotherapy', Health
+912,'Baseball Fields', Sport
+913,'Art Galleries', Entertainment
+914,'Entertainment Law', Legal
+915,'Luggage', Merchants
+916,'Ice Cream & Frozen Yogurt', Food
+917,'Fruits & Veggies', Food
+918,'Spray Tanning', Home
+919,'Community Gardens', Home
+920,'Jet Skis', Travel
+921,'Windows Installation', Construction
+922,'Paintball', Sport
+923,'Airport Terminals', Travel
+924,'Doctors', Health
+925,'Contract Law', Legal
+926,'Acupuncture', Personal Care
+927,'Laundry Services', Personal Care
+928,'Mini Golf', Sport
+929,'Solar Installation', Construction
+930,'Venues & Event Spaces', Business Support
+931,'Food Court', Food
+932,'Brewing Supplies', Merchants 
+933,'Basketball Courts', Sport
+934,'Drive-Thru Bars', Food
+935,'Medical Supplies', Health
+936,'Excavation Services', Construction
+937,'Graphic Design', Business Support
+938,'Beer', Food
+939,'Hepatologists', Health
+940,'Acne Treatment', Health
+941,'Animal Assisted Therapy', Personal Care
+942,'Tennis', Sport
+943,'Rheumatologists', Health 
+944,'Chinese Martial Arts', Sport
+945,'Landmarks & Historical Buildings', Entertainment 
+946,'Hydroponics', Manufacturing
+947,'Accessories', Merchant
+948,'Party Bus Rentals', Automotive
+949,'Badminton', Sport
+950,'Tai Chi', Sport
+951,'Screen Printing', Business Support 
+952,'Stadiums & Arenas', Sport
+953,'Peruvian', Food
+954,'Taekwondo', Sport
+955,'Appliances', Business Support 
+956,'Car Inspectors', Automotive
+957,'Hydrotherapy', Health
+958,'Nurseries & Gardening', Home
+959,'Day Spas', Personal Care
+960,'Batting Cages', Merchant 
+961,'Gas Stations', Automotive
+962,'Transmission Repair', Automotive
+963,'Tasting Classes', Education
+964,'Halal', Food
+965,'Chocolatiers & Shops', Food
+966,'Motorsport Vehicle Dealers', Automotive
+967,'Audio/Visual Equipment Rental', Computers 
+968,"'Children's Clothing""", Merchants
+969,'Psychic Mediums', Personal Care
+970,'Oaxacan', Food
+971,'Pickleball', Sport
+972,'Taxis', Travel
+973,'Mobile Home Dealers', Real Estate
+974,'Nutritionists', Personal Care
+975,'Vacation Rental Agents', Travel
+976,'Horse Racing', Entertainment 
+977,'Assisted Living Facilities', Personal Care
+978,'Scandinavian', Food
+979,'Playsets', Home
+980,'Costumes', Merchants
+981,'General Dentistry', Health 
+982,'Nurse Practitioner', Health
+983,'Scavenger Hunts', Entertainment 
+984,'Hong Kong Style Cafe', Food
+985,'Sunglasses', Merchants
+986,'Dominican', Food
+987,'Petting Zoos', Personal Care 
+988,'Luggage Storage', Merchants
+989,'Bike Parking', Automotive
+990,'Shopping Centers', Merchants
+991,'Counseling & Mental Health', Health
+992,'Mobile Dent Repair', Health
+993,'Artificial Turf', Home
+994,'African', Food
+995,'Fitness & Instruction', Sport
+996,'Falafel', Food
+997,'American (Traditional)', Food
+998,'Emergency Rooms', Business Support
+999,'Wildlife Control', Miscellaneous 
+1000,'Swimwear', Merchants
+1001,'Snow Removal', Construction
+1002,'Mobile Phones', Computers
+1003,'Mobile Home Repair', Computers
+1004,'Poke', Food
+1005,'Greek', Food
+1006,'Martial Arts', Sport
+1007,'Women's Clothing', Merchants
+1008,'Skilled Nursing', Personal Care
+1009,'International Grocery', Food
+1010,'EV Charging Stations', Automotive
+1011,'Hair Extensions', Personal Care
+1012,'Strip Clubs', Personal Care 
+1013,'Bagels', Food
+1014,'Medical Centers', Health
+1015,'Home Cleaning', Home
+1016,'Ukrainian', Food
+1017,'Hair Stylists', Personal Care
+1018,'Sandblasting', Construction 
+1019,'Saunas', Personal Care
+1020,'Public Markets', Merchants
+1021,'Wine & Spirits', Food 
+1022,'Nanny Services', Personal Care
+1023,'Family Practice', Legal
+1024,'Property Management', Real Estate
+1025,'Performing Arts', Entertainment 
+1026,'Habilitative Services', Health
+1027,'Photographers', Business Support
+1028,'Adoption Services', Miscellaneous
+1029,'Guitar Stores', Merchants
+1030,'Duty-Free Shops', Merchants
+1031,'Venezuelan', Food
+1032,'Business Consulting', 
+1033,'Sushi Bars', Business Support
+1034,'Stonemasons', Construction
+1035,'Embassy', Miscellaneous
+1036,'Flowers', Merchants
+1037,'Lounges', Merchants
+1038,'Watches', Merchants
+1039,'Tattoo', Merchants
+1040,'Commercial Real Estate', Real Estate 
+1041,'Real Estate Services', Real Estate 
+1042,'Geneticists',Health
+1043,'Foot Care', Health
+1044,'Ethiopian', Food
+1045,'Orthotics', Health
+1046,'Fondue', Food
+1047,'Hotels & Travel', Travel 
+1048,'Specialty Schools', Education
+1049,'Scuba Diving', Sport
+1050,'Country Clubs', Food 
+1051,'Hostels', Travel
+1052,'Delicatessen', Entertainment 
+1053,'Recording & Rehearsal Studios', Entertainment 
+1054,'College Counseling', Education 
+1055,'Kids Activities', Education 
+1056,'Mediators', Legal
+1057,'Mongolian', Food
+1058,'Fire Protection Services', Miscellaneous
+1059,'Language Schools', Education 
+1060,'Backflow Services', Construction 
+1061,'Billing Services', Legal 
+1062,'Tempura', Food
+1063,'Holiday Decorations', 
+1064,'General Litigation', 
+1065,'Polish', Food
+1066,'Event Planning & Services', Business Support
+1067,'Osteopathic Physicians', Health
+1068,'Phlebologists', Health
+1069,'Orthopedists', Health
+1070,'Vegan', Food
+1071,'Homeopathic', Health
+1072,'Disc Golf', Sport
+1073,'Bartenders', Food
+1074,'Prosthetics', Health
+1075,'Farm Equipment Repair', Merchants
+1076,'Officiants', Legal
+1077,'Business Law', Legal
+1078,'Well Drilling', Construction
+1079,'Tobacco Shops', Merchants
+1080,'Head Shops', Merchants
+1081,'Zoos', Entertainment 
+1082,'Sri Lankan', Food
+1083,'Playgrounds', Entertainment 
+1084,'RV Rental', Automotive
+1085,'Donuts', Food
+1086,'Supernatural Readings', Merchants
+1087,'Educational Services', Education
+1088,'Mountain Biking', Entertainment 
+1089,'Piano Stores', Merchants
+1090,'Dry Cleaning', Personal Care
+1091,'Chiropractors', Personal Care 
+1092,'Motorsport Vehicle Repairs', Automotive 
+1093,'Life Coach', Personal Care
+1094,'Hair Removal', Personal Care
+1095,'Piano Services', Education 
+1096,'Magicians', Entertainment 
+1097,'Bookstores', Merchants 
+1098,'Motorcycle Dealers', Automotive  
+1099,'Immunodermatologists', Health 
+1100,'Shredding Services', Business Support
+1101,'Pool & Hot Tub Service', Construction 
+1102,'Tableware', Home
+1103,'Tiling', Construction 
+1104,'Internet Cafes', Food
+1105,'ATV Rentals/Tours', Travel 
+1106,'Cambodian', Food
+1107,'Midwives', Health 
+1108,'Health Coach', Personal Care
+1109,'Virtual Reality Centers', Computers
+1110,'Couriers & Delivery Services', Business Support
+1111,'Candle Stores', Merchants
+1112,'Pool Halls', Sport
+1113,'Doulas', Personal Care
+1114,'Arcades', Entertainment 
+1115,'Placenta Encapsulations', Health 
+1116,'German', food
+1117,'Blood & Plasma Donation Centers', Health
+1118,'Motorcycle Repair', Automotive
+1119,'Summer Camps', Entertainment  
+1120,'Structural Engineers', Construction 
+1121,'Cuban', Food
+1122,'Duplication Services', Business Support 
+1123,'Racing Experience', Automotive 
+1124,'Toxicologists', Health
+1125,'Cards & Stationery', Computers 
+1126,'Sports Medicine', Health
+1127,'Drones', Computers
+1128,'Unofficial Yelp Events', Business Support 
+1129,'Fur Clothing', Merchants
+1130,'Bartending Schools', Education 
+1131,'Tubing', Travel
+1132,'Sauna Installation & Repair', Construction 
+1133,'Skate Shops', Merchants
+1134,'Court Reporters', Legal
+1135,'Pressure Washers', Automotive 
+1136,'Sikh Temples', Travel
+1137,'Burmese', Personal Care
+1138,'Bowling', Sport
+1139,'Mobility Equipment Sales & Services', Travel
+1140,'Christmas Markets', Merchants
+1141,'Hainan', Food
+1142,'Skydiving', Entertainment  
+1143,'Lighting Stores', Merchants
+1144,'Painters', Construction 
+1145,'Taxidermy', Entertainment 
+1146,'Hardware Stores', Computers
+1147,'Scottish', Food
+1148,'Disability Law', Legal
+1149,'Cardio Classes', Sport
+1150,'Motorcycle Gear', Automotive
+1151,'Czech', Food
+1152,'Country Dance Halls', Sport
+1153,'Mortgage Lenders', Legal
+1154,'Product Design', Business Support
+1155,'Kiosk', Merchants
+1156,'Aestheticians', Personal Care
+1157,'Sailing', Sport
+1158,'Gastropubs', Food
+1159,'Hawaiian', Food
+1160,'Auto Customization', Automotive
+1161,'Oil Change Stations', Automotive 
+1162,'Airport Lounges', Travel
+1163,'Fast Food', Food
+1164,'Telecommunications', Computers
+1165,'Otologists', Health
+1166,'Cannabis Clinics', Health
+1167,'Home & Garden', Home
+1168,'Medical Foot Care', Health
+1169,'Boxing', Sport
+1170,'Laser Hair Removal', Personal Care
+1171,'Silent Disco', Entertainment 
+1172,'Cheese Shops', Food
+1173,'Town Car Service', Travel
+1174,'Mobile Phone Accessories', Computers
+1175,'Community Centers', Miscellaneous
+1176,'Ice Delivery', Miscellaneous
+1177,'Barbeque', food
+1178,'Auto Upholstery', Automotive  
+1179,'Minho', Food
+1180,'Data Recovery', Business Support
+1181,'Check Cashing/Pay-day Loans', Legal
+1182,'Karate', Sport
+1183,'Tax Services', Legal
+1184,'Custom Cakes', food
+1185,'Audiologist', Health
+1186,'Wine Bars', Food
+1187,'Mortgage Brokers', Legal
+1188,'Limos', Travel
+1189,'Homeless Shelters', Miscellaneous
+1190,'Drive-In Theater', Entertainment 
+1191,'Bike Rentals', Travel 
+1192,'Pumpkin Patches', Merchants 
+1193,'Wallpapering', Construction 
+1194,'Land Surveying', Construction 
+1195,'Pop-up Shops', Merchants 
+1196,'Hair Loss Centers', Personal Care
+1197,'Cooking Classes', Education 
+1198,'Career Counseling', Education 
+1199,'Watch Repair', Merchant 
+1200,'Currency Exchange', Legal
+1201,'Wedding Chapels', Miscellaneous
+1202,'Hats', Merchants 
+1203,'Real Estate Agents', Real Estate
+1204,'Books', Merchants
+1205,'Coffee Roasteries', Food 
+1206,'Hearing Aids', Health 
+1207,'Fashion', Merchants
+1208,'Water Delivery', Miscellaneous
+1209,'Home Developers', Real Estate 
+1210,'Public Adjusters', Legal
+1211,'Vascular Medicine', Health 
+1212,'Puerto Rican', Food
+1213,'Churches', Miscellaneous
+1214,'Discount Store', Merchants 
+1215,'Bistros', Food
+1216,'Septic Services', Construction 
+1217,'Screen Printing/T-Shirt Printing', Business Support 
+1218,'Battery Stores', Computers  
+1219,'Flyboarding', Sport
+1220,'Escape Games', Entertainment 
+1221,'Irrigation', Construction 
+1222,'Piercing', Personal Care
+1223,'Mobile Phone Repair', Construction 
+1224,'Reiki', Personal Care 
+1225,'Car Window Tinting', Automotive 
+1226,'Gluten-Free', Food
+1227,'Plastic Surgeons', Health  
+1228,'Cooking Schools', Education 
+1229,'Rolfing', Personal Care
+1230,'Editorial Services', Business Support
+1231,'Religious Organizations', Miscellaneous
+1232,'Waffles', Food
+1233,'Dance Schools', Education  
+1234,'Tapas/Small Plates', Food
+1235,'Portuguese', Food
+1236,'Veterans Organizations', Miscellaneous
+1237,'Auto Electric Services', Automotive
+1238,'Installment Loans', Legal
+1239,'Physical Therapy', Personal Care
+1240,'Pizza', Food
+1241,'Italian', Food
+1242,'Honduran', Food
+1243,'Vitamins & Supplements', Health 
+1244,'Medical Law', Legal 
+1245,'Fingerprinting', Miscellaneous
+1246,'Brewpubs', Food
+1247,'Bus Stations', Travel 
+1248,'Paint Stores', Merchants 
+1249,'Breweries', Food
+1250,'Karaoke', Entertainment 
+1251,'Coffee & Tea', Food
+1252,'Uzbek', Food 
+1253,'Nail Salons', Personal Care 
+1254,'Thai', Food
+1255,'Tenant and Eviction Law', Legal
+1256,'Convenience Stores', Merchants
+1257,'Amateur Sports Teams', Sport
+1258,'Commercial Truck Dealers', Automotive 
+1259,'Storefront Clinics', Health 
+1260,'Clowns', Entertainment 
+1261,'Concierge Medicine', Health
+1262,'Pubs', Food
+1263,'Beer Tours', Food
+1264,'Pharmacy', Health 
+1265,'Addiction Medicine', Health
+1266,'Boat Charters', Travel 
+1267,'RV Parks', Travel
+1268,'Trivia Hosts', Entertainment 
+1269,'Rafting/Kayaking', Sport
+1270,'Home Health Care', Health
+1271,'IT Services & Computer Repair', Computers
+1272,'Tea Rooms', Food
+1273,'Mexican', Food
+1274,'Undersea/Hyperbaric Medicine', Health
+1275,'Attraction Farms', Entertainment 
+1276,'Beer Hall', Food
+1277,'Knife Sharpening', Merchants 
+1278,'Shades & Blinds', Merchants 
+1279,'Firearm Training', Education 
+1280,'Pakistani', Food
+1281,'Divorce & Family Law', Legal 
+1282,'Haitian', Food
+1283,'Cafes', Food
+1284,'Sandwiches', Food
+1285,'Delis', Food
+1286,'Bankruptcy Law', Legal
+1287,'Auto Loan Providers', Legal
+1288,'Home Window Tinting', Constructor 
+1289,'Safety Equipment', Merchants 
+1290,'Personal Care Services', Personal Care
+1291,'Comedy Clubs', Entertainment 
+1292,'Colonics', Health
+1293,'Portable Toilet Services', Construction 
+1294,'Opera & Ballet', Entertainment  
+1295,'Gold Buyers', Legal
+1296,'Pool & Billiards', Entertainment 
+1297,'Crane Services', Construction 
+1298,'Computers', Computers
+1299,'Photography Classes', Education 
+1300,'Workers Compensation Law', Legal 
+1301,'Building Supplies', Business Support
+1302,'Party Characters', Entertainment 
+1303,'Shutters', Construction 
+1304,'Wine Tasting Classes', Education 
+1305,'Swiss Food', Food
+1306,'Trailer Repair', Automotive 
+1307,'Local Fish Stores', Food 
+1308,'Sex Therapists', Personal Care
+1309,'Qi Gong', Personal Care
+1310,'Crisis Pregnancy Centers', Health
+1311,'Bikes', Travel  
+1312,'Car Brokers', Automotive 
+1313,'Antiques', Home'
+1314,'Sleep Specialists', Personal Care 
+1315,'Appliances & Repair', Home
+1316,'Pancakes', Food
+1317,'Steakhouses', Food
+1318,'Payroll Services', Legal
+1319,'Estheticians', Personal Care
+1320,'Car Share Services', Travel 
+1321,'Soba', Food
+1322,'Aircraft Dealers', Travel 
+1323,'Bespoke Clothing', Merchants
+1324,'Proctologists', Health
+1325,'Cajun/Creole', Food
+1326,'Eastern European', Food
+1327,'Arabian', Food
+1328,'Refinishing Services', Home
+1329,'General Festivals', Miscellaneous 
+1330,'Bars', Food
+1331,'Dim Sum', Food
+1332,'Podiatrists', Health
+1333,'Golf', Sport
+1334,'Buddhist Temples', Miscellaneous
+1335,'Adult', Personal Care
