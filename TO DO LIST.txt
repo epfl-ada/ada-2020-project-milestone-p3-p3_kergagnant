@@ -40,16 +40,34 @@ Only on checkins that have been a reviewed by a friend before, study the probabi
 
 
 
+Data Story: In reviews we trust!
+Goal: How do ratings on businesses affect mobility?  
 
-one plot per week-day:
-x-axis: week day
-y-axis: probability to travell to distance d
+--> Influence of mean rating on businesses mobility? Good vs bad ratings
+--> Study of the word of mouth impact: how do friend recommendations influence our mobility. How likely are we to visit a friend's recommended business?
+    Depending on day of the week, or on special event (e.g Thanksgiving, Independence Day, Black Friday, Christmas ...) 
+--> Study the 'treatment' having a good rating vs not, with method seen in course 
+    => does a good rating has an influence on the number of visits of the business + study correlation between rating and number of visits 
+--> Are there categories of businesses more influenced by reviews than others? Study the word of mouth effect on categories 
+    and study the mean rating impact. 
+--> Study the 'treatment' having a good rating vs not, with method seen in course => does a good rating has an influence on 
 
-one plot per category:
-number of checkins as function of distance to travel
 
 
-quelle catégorié a été checkin quand
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
