@@ -1,10 +1,12 @@
 # How reviews on Yelp affect mobility
 
 ## Abstract
-In this creative extension, we aim at studying the effects of yelp reviews, and more specifically reviews of businesses on mobility. We will be using a very extensive dataset provided by Yelp giving us information on businesses, users, reviews and user check-ins into certain businesses.<br>
-Given that the dataset is huge, we will cut it down by focusing on businesses in California, which has a very high concentration of various businesses and many active users, as well as being a big state surface-wise with a relatively high population density.<br>
-We will try to clean the data and perform various statistical analysis and plottings  in order to draw conclusions on the effect of friend’s yelp reviews on one's mobility. The intuition is that if a user’s friend has given a positive or negative review for a certain business, chances are that that friend has talked to that user about it, enabling the user to check-out or not the business, regardless if they have seen the friend’s review or not.<br>
+In this creative extension, we aim at studying the effects of yelp reviews, and more specifically reviews of businesses on mobility. We will be using a very extensive dataset provided by Yelp giving information on businesses, users, reviews and user check-ins of certain businesses.<br>
+Studying human mobility can be very useful for a number of applications. For instance, with this extension, we try to understand how businesses' online presence affects everyday mobility.  Specifically how friends’ reviews and average reviews for each business can influence mobility. If we are willing to travel further from home to go to a well-rated business.  This is valuable information from a business stand-point: business owners can be motivated to improve their online public image if people are willing to travel more for a well-rated business. <br>
+We study the effect of the average rating of a business on the probability of long distance travel for the users. We expect that the better rated business will likely attract more users, but also users that come from further away.<br>
+We then study how reviews from friends affect long distance travelling to certain businesses depending whether the review is good or not. The intuition is that if a user’s friend has given a positive or negative review for a certain business, chances are that friend has talked to that user about it, enabling the user to check-out or not the business, regardless if they have seen the friend’s review or not. We also examine how the influence of the user’s friend's review will evolve depending on the day of the week, or the category of business, which once again could be some very valuable information for businesses.<br>
 This is another facet of the effects on friendships on short and long distance travelling, studied in the reference paper. We expect to find some similar results, that long distance mobility in particular is strongly linked to friends' presence and opinions on certain businesses.<br>
+Finally, we study the distribution of the number of checkins per business depending on the business grade. We monitor two populations: well-graded businesses and poorly-graded businesses to see which one attracts more users. 
 
 ## Research Questions
 The goal is to study: how do ratings on businesses affect mobility?
@@ -16,12 +18,12 @@ Do good ratings and bad ratings of businesses influence human mobility? If yes, 
 How do friends’ recommendations influence our mobility? 
 How likely are we to visit a friend's recommended business?
 
-- Study of the word of mouth impact on categories of businesses.
-Are there categories of businesses more influenced by reviews than others? 
-
 - Study of the word of mouth impact on weekdays.
-Depending on the day of the week, are we likely to travel more on some days of the week?
+Depending on the day of the week, are we more likely to travel far?
 Does the influence of friend’s recommendations change depending on the day of the week ?
+
+- Study of the word of mouth impact on categories of businesses.
+Are there categories of businesses more influenced by friends reviews than others? 
 
 - Study the 'treatment' having a good rating vs not, with methods seen in the course.
 Does a good rating have an influence on the number of visits of the business?
@@ -40,6 +42,7 @@ For our study, we need to infer the user's home and friends, so we only keep use
 
 ## Methods
 - Remove useless attributes from datasets.
+- Assign each of the 1336 business subcategories a global category (among 17) - done by hand
 - Select users that have done at least 3 reviews and have at least 3 friends.
 - Prepare masks for each category of business so that we can achieve information conveniently.
 - We will infer the user's home with the same technique used by the author of the Friendship and Mobility.
@@ -47,7 +50,7 @@ For our study, we need to infer the user's home and friends, so we only keep use
 - We will plot the probability of visiting a business positively reviewed (and negatively reviewed) by at least one friend before with respect to distance from home.
 - Depending on the category of business, we will plot the probability of visiting such business positively reviewed (and negatively reviewed) with respect to distance from home.
 - Depending on the day of the week, we will plot the probability of visiting a business positively reviewed (and negatively reviewed) with respect to distance from home.
-- Using the methods seen in class, we will find similar categories and try to figure out whether the ratings of business will have an impact on mobility.
+- Using the methods seen in class, we will find similar categories and try to figure out whether the ratings of business will have an impact on mobility (observational studies) 
 
 ## Proposed timeline
 - 01/12/20 - 06/12/20: massage the dataset and get all the relevant information. Finally, try to have the following datasets:
@@ -96,6 +99,7 @@ For the second week, we have divided the work amongst ourselves in the following
   - Group travelling distances, and then compute the probability that we travel depending on the week day to a business positively reviewed (and negatively reviewed) by **our friends** with respect to distance from home. Prepare plots.
 - All together
   - Show results to teammates and discuss.
+  - annotate the sub-categories 
 
 For the last week, we will finalize the project by collaborating:
 - All together
@@ -106,10 +110,9 @@ For the last week, we will finalize the project by collaborating:
 
 
 ## References:
-- [Paper](http://ial.eecs.ucf.edu/Reading/Papers/Friendship%20and%20Mobility%20User%20Movement%20In%20Location-Based%20Social%20Networks.pdf): *Friendship and Mobility: User Movement in Location-Based Social Networks*.
+- [Paper](http://ial.eecs.ucf.edu/Reading/Papers/Friendship%20and%20Mobility%20User%20Movement%20In%20Location-Based%20Social%20Networks.pdf) *Friendship and Mobility: User Movement in Location-Based Social Networks*.
 - [Yelp Dataset](https://www.yelp.com/dataset/download).
 - [Data story](https://zxyzz.github.io/In-Reviews-We-Trust-/)
-
 
 
 
